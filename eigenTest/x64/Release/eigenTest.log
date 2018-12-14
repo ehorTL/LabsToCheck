@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\user\source\repos\eigentest\eigentest\source.cpp(25): error C2955: "Eigen::MatrixBase": для использования класс шаблон требуется список аргументов шаблон
+  c:\users\user\source\repos\eigentest\packages\eigen.3.3.3\build\native\include\eigen\src\core\matrixbase.h(49): note:  см. объявление "Eigen::MatrixBase"
+c:\users\user\source\repos\eigentest\eigentest\source.cpp(25): error C2039: MatrixBase: не является членом "Eigen::Matrix<double,-1,-1,0,-1,-1>"
+  c:\users\user\source\repos\eigentest\packages\eigen.3.3.3\build\native\include\eigen\src\core\matrix.h(451): note:  см. объявление "Eigen::Matrix<double,-1,-1,0,-1,-1>"
+c:\users\user\source\repos\eigentest\eigentest\source.cpp(25): error C2672: "Eigen::MatrixBase<Derived>::triangularView": не найдена соответствующая перегруженная функция
+c:\users\user\source\repos\eigentest\eigentest\source.cpp(25): error C2783: MatrixBase<Derived>::TriangularViewReturnType<Mode>::Type Eigen::MatrixBase<Derived>::triangularView(void): не удается составить аргумент шаблон для "Mode"
+  c:\users\user\source\repos\eigentest\packages\eigen.3.3.3\build\native\include\eigen\src\core\matrixbase.h(246): note:  см. объявление "Eigen::MatrixBase<Derived>::triangularView"
