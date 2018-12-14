@@ -1,0 +1,14 @@
+A number of bombs are randomly set in cells.
+Evely cell either has a bomb o has a number
+(or empty, the same as 0).
+The aim of game is to open all the cells 
+without bombs.
+Number in a cell poins how many bombs are 
+around current cell. There are maximum
+8 neighbour cells to current one.
+
+You will be notified if you have won or lose 
+by message.
+Then you can start a new game or just close 
+thw window of game.
+

@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/Closed.png</file>
+        <file>images/OpenedEmpty.png</file>
+        <file>images/OpenedBomb.png</file>
+        <file>images/Opened_1.png</file>
+        <file>images/Opened_2.png</file>
+        <file>images/Opened_3.png</file>
+        <file>images/Opened_4.png</file>
+        <file>images/Opened_5.png</file>
+        <file>images/Opened_6.png</file>
+        <file>images/Opened_7.png</file>
+        <file>images/Opened_8.png</file>
+        <file>images/windowIcon1616.ico</file>
+        <file>images/smileCool.png</file>
+        <file>images/smileWeeping.png</file>
+        <file>images/smileQuestion.png</file>
+        <file>images/ClosedHint.png</file>
+    </qresource>
+</RCC>
